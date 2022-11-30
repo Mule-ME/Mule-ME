@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
-- 💬 Ask me about **JavaScript, React,**
+- 💬 Ask me about **JavaScript, React, NodeJs, EspressJs, Web-App development...**
 
 - 📫 How to reach me **mulualemesh15@gmail.com**
 
