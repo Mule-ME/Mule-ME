@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mulualem_eshetu" target="blank"><img src="https://img.shields.io/twitter/follow/mulualem_eshetu?logo=twitter&style=for-the-badge" alt="mulualem_eshetu" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
 - 💬 Ask me about **JavaScript, React,**
