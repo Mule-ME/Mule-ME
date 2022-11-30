@@ -13,17 +13,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mule-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mule-me" height="30" width="40" /></a>
-<a href="https://dev.to/muleme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muleme" height="30" width="40" /></a>
-<a href="https://twitter.com/mulualem_eshetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulualem_eshetu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mulualemeshetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulualemeshetu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/17166179/mulualem-eshetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17166179/mulualem-eshetu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mule-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mule-me" height="30" width="40" /></a>
-<a href="https://fb.com/mulualem eshetu ye zewde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mulualem eshetu ye zewde" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@its_me_mule" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@its_me_mule" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mulualemesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mulualemesh15" height="30" width="40" /></a>
+<a href="https://twitter.com/mulualem_eshetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulualem_eshetu" height="30" width="40" /></a>
+<a href="https://fb.com/mulualem eshetu ye zewde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mulualem eshetu ye zewde" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/17166179/mulualem-eshetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17166179/mulualem-eshetu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mulualem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mulualem" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mulualemesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mulualemesh15" height="30" width="40" /></a>
+<a href="https://codepen.io/mule-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mule-me" height="30" width="40" /></a>
+<a href="https://dev.to/muleme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muleme" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mule-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mule-me" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
