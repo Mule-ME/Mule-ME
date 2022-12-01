@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
+- 🔭 I’m currently working on **Supply Chain Management system, and Performance Enhancement System(ERP)**
+
+- 🌱 I’m currently learning **NodeJS, MongoDB, GraphQL**
 
 - 💬 Ask me about **JavaScript, React, NodeJs, EspressJs, Web-App development...**
 
@@ -50,4 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mule-me&show_icons=true&locale=en" alt="mule-me" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mule-me&" alt="mule-me" /></p>
+
+
 
