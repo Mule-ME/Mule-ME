@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bill of Quantity Automation System for Tender, Supply Chain Management system, and Performance Enhancement System(ERP)**
 
-- 🌱 I’m currently learning **REact Naattive, TypeScript, RBAC, MongoDB Aggregation, React Admin  Graphql**
+- 🌱 I’m currently learning **REact Naattive, TypeScript, RBAC, MongoDB Aggregation, React Admin  GraphQl**
 
 - 💬 Ask me about **JavaScript, React, NodeJs, EspressJs, Web-App development...**
 
