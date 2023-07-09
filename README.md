@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
-- 🔭 I’m currently working on **Bill of Quantity Automation System for Tender, Supply Chain Management system, and Performance Enhancement System(ERP)**
+- 🔭 I’m currently working on **Self-improvment**
 
 - 🌱 I’m currently learning **React Naattive, TypeScript, RBAC, MongoDB Aggregation, React Admin, Strapi, GraphQL, Socket-io, Redis,  Docker,  Docker-swarm**
 
