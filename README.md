@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
-- 🔭 I’m currently working on **Dodai web & Mobile apps a project for the first electric scooters provider company in Ethiopia**
+- 🔭 I’m currently working on **Dodai web & Mobile apps a project for the first electric scooter provider company in Ethiopia**
 
-- 🌱 I’m currently learning **React Naattive, TypeScript, RBAC, MongoDB Aggregation, React Admin, Strapi, GraphQL, Socket-io, Redis,  Docker,  Docker-swarm**
+- 🌱 I’m currently learning **Serverless framework, AWS Serverless, AWS Lambda, AWS Cognito, Cloud Formation, IaC, React Native, RBAC, MongoDB Aggregation, GraphQL, Socket-io, Redis,  Docker,  Docker-swarm**
 
 - 💬 Ask me about **JavaScript, React, Redux, Redux-toolkit, Redux-Saga NodeJs, EspressJs, Web-App development...**
 
