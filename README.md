@@ -5,8 +5,7 @@
 <p align="center">Addis Ababa, Ethiopia</p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/mulualemeshetu"><img src="https://img.shields.io/badge/LinkedIn-5,700%2B%20followers-0A66C2?style=flat-
-  square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/mulualemeshetu"><img src="https://img.shields.io/badge/LinkedIn-5,700%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://mulualem.dev"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
     <a href="https://medium.com/@muletech"><img src="https://img.shields.io/badge/Medium-16a34a?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
     <a href="https://twitter.com/Mulualem_Eshetu"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
