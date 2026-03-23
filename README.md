@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mulualem Eshetu 👋</h1>
 <p align="center">
-  Frontend-leaning software engineer building AI-native product systems across web, browser extensions, desktop, mobile, and backend.
+  Frontend-leaning software engineer building AI-native product systems across web, browser extensions, desktop, mobile.
 </p>
 <p align="center">Addis Ababa, Ethiopia</p>
 
@@ -8,8 +8,7 @@
   <a href="https://linkedin.com/in/mulualemeshetu"><img src="https://img.shields.io/badge/LinkedIn-5,700+_followers-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://mulualem.dev"><img src="https://img.shields.io/badge/Portfolio-mulualem.dev-000?style=flat&logo=safari" alt="Portfolio" /></a>
   <a href="https://medium.com/@muletech"><img src="https://img.shields.io/badge/Medium-@muletech-000?style=flat&logo=medium" alt="Medium" /></a>
-  <a href="https://twitter.com/Mulualem_Eshetu"><img src="https://img.shields.io/badge/X-@Mulualem__Eshetu-000?style=flat&logo=x" alt="X" /></a>
-</p>
+  <a href="https://twitter.com/Mulualem_Eshetu"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a></p>
 
 ---
 
@@ -19,26 +18,25 @@ I work in an AI-first way: not as a shortcut, but as leverage to move faster, ow
 
 ### Current work
 
-**TextCortex AI — Platform Engineer**
+**[TextCortex AI](https://textcortex.com/) — Platform Engineer**
 
 - Working across a shared monorepo that powers the [main web app](https://app.textcortex.com/) used by **2.4M+ users** and **200k+ daily active users**, the [TextCortex Chrome/Edge extension](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) with **70k+ users**, and the desktop app.
 - Built the desktop app from an empty directory with **Tauri v2 + React + Rust**, and I continue to lead and evolve it.
 - Led major rebuild, hardening, migration, release, and UX work on the browser extension for **70k+ users**.
 - Shipped end-to-end platform work across frontend, backend, auth and integration flows, and deployment.
-- Delivered high-volume cross-repo work across product, shared packages, CI, security, migrations, and deployment.
-- Led centralization, migration, cleanup, and performance work across web, extension, and desktop, including shared-package consolidation, large dead-code removal passes, and dashboard performance improvements that removed redundant API work.
-- Shipped frontend UX and performance improvements across web, extension, and desktop, including shell-first rendering work that made product surfaces feel faster and more reliable.
-- Also contributing around AI agent infrastructure and open-source systems such as **OpenClaw** and **Spritz**.
-
-**Technify — Part-time Frontend Engineer**
+- Drove cross-repo product and platform work spanning shared packages, CI, security, migrations, deployment, and frontend/backend integration.
+- Took initiative on centralization, cleanup, and performance improvements across web, extension, and desktop, including shell-first rendering and other work that made
+  product surfaces faster and more reliable.
+  
+**[Technify](https://www.technify.et/) — Part-time Frontend Engineer**
 
 - Worked on the live enterprise/public-sector platform [UEMIS](https://uemis.gov.et/), shipping multiple production frontend features over a 10-month engagement.
 - Implemented offline support for the product as part of that work.
 
 ### Previous experience
 
-- At **Addis Software**, worked as a full-stack and React Native developer on [Dodai](https://ethiopia.dodai.co/en/dodai/), Ethiopia’s first electric scooter platform: **3 React Native apps** for driver, swapper, and charger workflows plus the [admin web app](https://dodai-admin.addissoftware.com). I also contributed across the Node.js, Express, and MongoDB backend, including payment integrations, real-time notifications, and role-based access control.
-- At **IE Network Solutions**, worked across frontend and full-stack product delivery on enterprise systems such as the [SCM platform](https://scm.ienetworks.co), **PEP**, and a **BoQ automation system**, helping build business-critical workflows spanning supply chain, HR, OKR, and internal operations.
+- At **[Addis Software](https://addissoftware.com/)**, worked as a full-stack and React Native developer on [Dodai](https://ethiopia.dodai.co/en/dodai/), Ethiopia’s first electric scooter platform: **3 React Native apps** for driver, swapper, and charger workflows plus the [admin web app](https://dodai-admin.addissoftware.com). I also contributed across the Node.js, Express, and MongoDB backend, including payment integrations, real-time notifications, and role-based access control.
+- At **[IE Network Solutions](https://ienetworksolutions.com/)**, worked across frontend and full-stack product delivery on enterprise systems such as the [SCM platform](https://scm.ienetworks.co), **PEP**, and a **BoQ automation system**, helping build business-critical workflows spanning supply chain, HR, OKR, and internal operations.
 - Earlier there, I worked on internal office systems and performance-management tooling, and also helped mentor junior developers and unblock technical issues within the team.
 
 ### Things I'm building
