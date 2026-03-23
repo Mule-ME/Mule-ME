@@ -20,8 +20,7 @@ I work in an AI-first way: not as a shortcut, but as leverage to move faster, ow
 
 **[TextCortex AI](https://textcortex.com/) — Platform Engineer**
 
-- Working across a shared monorepo powering the [web app](https://app.textcortex.com/) (2.4M+ users, 200k+ DAU), the [Chrome/Edge extension](https://chromewebstore.google.com/
-  detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) (70k+ users), and the desktop app.
+- Working across a shared monorepo powering the [web app](https://app.textcortex.com/) (2.4M+ users, 200k+ DAU), the [Chrome/Edge extension](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) (70k+ users), and the desktop app.
 - Built the desktop app from an empty directory with **Tauri v2 + React + Rust**, and continue to lead and evolve it across core product, native integrations, and release
   workflows.
 - Led major extension rebuild and migration work, including ZenoChat, theming, enterprise support, API migration, and Chrome Web Store hardening.
