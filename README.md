@@ -2,7 +2,6 @@
 <p align="center">
   Frontend-leaning software engineer building AI-native product systems across web, browser extensions, desktop, mobile.
 </p>
-<p align="center">Addis Ababa, Ethiopia</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/mulualemeshetu"><img src="https://img.shields.io/badge/LinkedIn-5,700%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,13 +20,13 @@ I work in an AI-first way: not as a shortcut, but as leverage to move faster, ow
 
 **[TextCortex AI](https://textcortex.com/) — Platform Engineer**
 
-- Working across a shared monorepo that powers the [main web app](https://app.textcortex.com/) used by **2.4M+ users** and **200k+ daily active users**, the [TextCortex Chrome/Edge extension](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) with **70k+ users**, and the desktop app.
-- Built the desktop app from an empty directory with **Tauri v2 + React + Rust**, and I continue to lead and evolve it.
-- Led major rebuild, hardening, migration, release, and UX work on the browser extension for **70k+ users**.
-- Shipped end-to-end platform work across frontend, backend, auth and integration flows, and deployment.
-- Drove cross-repo product and platform work spanning shared packages, CI, security, migrations, deployment, and frontend/backend integration.
-- Took initiative on centralization, cleanup, and performance improvements across web, extension, and desktop, including shell-first rendering and other work that made
-  product surfaces faster and more reliable.
+- Working across a shared monorepo powering the [web app](https://app.textcortex.com/) (2.4M+ users, 200k+ DAU), the [Chrome/Edge extension](https://chromewebstore.google.com/
+  detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) (70k+ users), and the desktop app.
+- Built the desktop app from an empty directory with **Tauri v2 + React + Rust**, and continue to lead and evolve it across core product, native integrations, and release
+  workflows.
+- Led major extension rebuild and migration work, including ZenoChat, theming, enterprise support, API migration, and Chrome Web Store hardening.
+- Shipped auth and integration flows connecting the platform with **Spritz** and **OpenClaw** for enterprise agent workflows.
+- Drove frontend UX and performance improvements, including shell-first rendering and other work that made product surfaces faster and more reliable.
   
 **[Technify](https://www.technify.et/) — Part-time Frontend Engineer**
 
@@ -38,7 +37,7 @@ I work in an AI-first way: not as a shortcut, but as leverage to move faster, ow
 
 - At **[Addis Software](https://addissoftware.com/)**, worked as a full-stack and React Native developer on [Dodai](https://ethiopia.dodai.co/en/dodai/), Ethiopia’s first electric scooter platform: **3 React Native apps** for driver, swapper, and charger workflows plus the [admin web app](https://dodai-admin.addissoftware.com). I also contributed across the Node.js, Express, and MongoDB backend, including payment integrations, real-time notifications, and role-based access control.
 - At **[IE Network Solutions](https://ienetworksolutions.com/)**, worked across frontend and full-stack product delivery on enterprise systems such as the [SCM platform](https://scm.ienetworks.co), **PEP**, and a **BoQ automation system**, helping build business-critical workflows spanning supply chain, HR, OKR, and internal operations.
-- Earlier there, I worked on internal office systems and performance-management tooling, and also helped mentor junior developers and unblock technical issues within the team.
+  - Earlier there, I worked on internal office systems and performance-management tooling, and also helped mentor junior developers and unblock technical issues within the team.
 
 ### Things I'm building
 
